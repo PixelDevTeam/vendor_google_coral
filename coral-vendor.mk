@@ -2051,27 +2051,12 @@ PRODUCT_PACKAGES += \
     SSRestartDetector \
     VZWAPNLib \
     xdivert \
-    AppDirectedSMSService \
-    CarrierLocation \
-    CarrierServices \
-    CarrierSettings \
-    CarrierWifi \
-    ConnMO \
-    DCMO \
-    DMService \
-    DeviceIntelligenceNetworkPrebuilt \
     DevicePersonalizationPrebuiltPixel4 \
     DiagMon \
     EuiccGoogle \
     HardwareInfo \
     HotwordEnrollmentOKGoogleHEMIDELTA \
     HotwordEnrollmentXGoogleHEMIDELTA \
-    OemDmTrigger \
-    SprintDM \
-    SprintHM \
-    TetheringEntitlement \
-    USCCDM \
-    WfcActivation \
     QtiTelephonyService \
     atfwd \
     com.qualcomm.qti.services.secureui \
@@ -2079,18 +2064,12 @@ PRODUCT_PACKAGES += \
     uceShimService \
     uimremoteclient \
     uimremoteserver \
-    CarrierSetup \
     EuiccSupportPixel \
     EuiccSupportPixelPermissions \
     HbmSVManager \
     LLKAgent \
-    MyVerizonServices \
-    OBDM_Permissions \
     PixelNfc \
-    RilConfigService \
-    grilservice \
     ims \
-    obdm_stub \
     qcrilmsgtunnel \
     com.google.android.camera.experimental2019 \
     libhwinfo \
